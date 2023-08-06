@@ -1,0 +1,4 @@
+*.db
+*.exe
+appsettings-development.json
+*.csv
